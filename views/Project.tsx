@@ -40,7 +40,7 @@ const Project: React.FC = () => {
         <div className="relative h-96 rounded-3xl overflow-hidden shadow-2xl shadow-green-900/20">
             {/* Placeholder for furniture/ash image */}
             <img 
-                src="https://images.unsplash.com/photo-1590494165260-911496c278d2?q=80&w=1470&auto=format&fit=crop" 
+                src="https://drive.google.com/open?id=1jDxvxAo3k5nY3h1zSCaK-8AneLWX7Ob-&usp=drive_copy" 
                 alt="Furniture Prototype" 
                 className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
             />
